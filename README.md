@@ -44,7 +44,6 @@ Este bot do Telegram oferece uma variedade de recursos para gerenciar uma lista 
 * [VEJA A DOCUMENTAÇÃO](https://python-telegram-bot.org/)
 * [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
 * [CURSO DE SQLITE](https://github.com/VILHALVA/CURSO-DE-SQLITE)
-* [CURSO DE SQLITE](https://github.com/VILHALVA/CURSO-DE-SQLITE)
 * [CURSO DE PYTHON COM SQLITE](https://github.com/VILHALVA/CURSO-DE-PYTHON-COM-SQLITE)
 * [CURSO SUGERIDO](https://github.com/VILHALVA/CURSO-DE-TELEBOT)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
